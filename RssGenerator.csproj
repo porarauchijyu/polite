@@ -24,6 +24,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <!-- 
   <Target Name="OrganizeOutput" AfterTargets="Build">
     <ItemGroup>
       <DllFiles Include="$(OutputPath)*.dll" />
@@ -37,5 +38,6 @@
     <Exec Command="if exist &quot;$(OutputPath)ChromeHeadlessShell&quot; ( xcopy /E /I /Y &quot;$(OutputPath)ChromeHeadlessShell&quot; &quot;$(OutputPath)runtimes\ChromeHeadlessShell&quot; &amp;&amp; rd /S /Q &quot;$(OutputPath)ChromeHeadlessShell&quot; )" />
     <RemoveDir Directories="$(OutputPath)x64;$(OutputPath)x86" />
   </Target>
+  -->
 
 </Project>
