@@ -350,7 +350,7 @@ namespace RssGenerator.Services
             {
                 Headless = this.Headless,
                 ExecutablePath = path,
-                Pipe = true, // WebSocket の制限を回避
+                WebSocketPipe = true, // WebSocket の制限を回避
                 UserDataDir = userDataDir, // デフォルトの一時フォルダ制限を回避
                 Args = new[] { 
                     "--no-sandbox", 
@@ -358,8 +358,8 @@ namespace RssGenerator.Services
                     "--disable-dev-shm-usage",
                     "--disable-infobars",
                     "--window-position=0,0",
-                    "--ignore-certifcate-errors",
-                    "--ignore-certifcate-errors-spki-list",
+                    "--ignore-certificate-errors",
+                    "--ignore-certificate-errors-spki-list",
                     "--disable-blink-features=AutomationControlled",
                     "--disable-gpu",
                     "--disable-software-rasterizer",
@@ -369,8 +369,8 @@ namespace RssGenerator.Services
                     "--password-store=basic",
                     "--use-mock-keychain"
                 },
-                DefaultViewport = (this.Headless ? new ViewPortOptions { Width = 1920, Height = 1080 } : null),
-                IgnoreHTTPSErrors = true
+                // DefaultViewport = (this.Headless ? new ViewPortOptions { Width = 1920, Height = 1080 } : null),
+                // IgnoreHTTPSErrors = true // v24 では LaunchOptions に直接存在しない場合があるため削除
             });
         }
 
