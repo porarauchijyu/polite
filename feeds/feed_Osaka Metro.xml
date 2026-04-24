@@ -1,0 +1,810 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Osaka Metro</title>
+    <link>https://example.com/</link>
+    <description>Osaka Metro の最新ニュース</description>
+    <lastBuildDate>Fri, 24 Apr 2026 15:13:52 Z</lastBuildDate>
+    <a10:id>RSSGenerator</a10:id>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20250415_kuragekan_piano.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20250415_kuragekan_piano.php</link>
+      <title>2025年大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」の“希望のピアノ”がOsaka Metro 本町ビルに登場 ～中島さち子氏によるKURAGE Band（クラゲバンド）特別演奏を開催～</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/library/20260415_osaka_art_and_design_2026/20260415_osaka_art_and_design_2026.pdf</guid>
+      <link>https://subway.osakametro.co.jp/news/library/20260415_osaka_art_and_design_2026/20260415_osaka_art_and_design_2026.pdf</link>
+      <title>梅田・中之島から心斎橋・なんば・阿倍野まで、アートとデザインが広がるイベント「Osaka Art &amp;amp; Design 2026」を2026年5月27日（水曜日）から2026年6月23日（火曜日）に開催！</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://citybus-osaka.co.jp/notice/260415/</guid>
+      <link>https://citybus-osaka.co.jp/notice/260415/</link>
+      <title>【大阪シティバス】路線バス小型化の実証実験の中止のお知らせ</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260415_nippombashi_evteishi.php</guid>
+      <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260415_nippombashi_evteishi.php</link>
+      <title>千日前線・堺筋線 日本橋駅　エレベーター利用停止について</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260415_metro_opus_ayatakaya.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260415_metro_opus_ayatakaya.php</link>
+      <title>「綾鷹」とおにぎりを楽しむ！東京で話題の『おにぎり食堂 綾鷹屋』がMetro Opus なんば・西梅田店に関西初出店します！</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260415_newsrelease.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260415_newsrelease.php</link>
+      <title>代表取締役社長の異動（内定）に関するお知らせ</title>
+      <description />
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260414_30000akei_goods.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260414_30000akei_goods.php</link>
+      <title>30000A系の中央線から谷町線への転用を記念した新商品を発売します！</title>
+      <description />
+      <a10:updated>2026-04-14T22:43:59Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260413_metro_opus_tengachaya.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260413_metro_opus_tengachaya.php</link>
+      <title>直営ポップアップ型販売店舗17号店『Metro Opus 天下茶屋店』を2026年4月20日（月曜日）にオープンします！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://osakamania.jp/mania/napolitan/</guid>
+      <link>https://osakamania.jp/mania/napolitan/</link>
+      <title>「大阪の、おすすメトロ『オオサカマニア』新コンテンツ『古き良き定番パスタ【ナポリタン】』を追加しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260408_expo1st_myaku_myaku_tsuika.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260408_expo1st_myaku_myaku_tsuika.php</link>
+      <title>大阪・関西万博開幕1周年記念 ミャクミャクコラボグッズ特別販売会【販売商品追加のお知らせ】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260406_expo1st_myaku_myaku.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260406_expo1st_myaku_myaku.php</link>
+      <title>大阪・関西万博開幕1周年記念 ミャクミャクコラボグッズ特別販売会を開催します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260406_kotsu_anzen_undou.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260406_kotsu_anzen_undou.php</link>
+      <title>2026年度 春の全国交通安全運動の実施について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260401_fukugouhanbai_jihanki.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260401_fukugouhanbai_jihanki.php</link>
+      <title>急なお困りごとを解決！御堂筋線 本町駅ほか3駅にて、ばんそうこうやマスク、フェイスパックなどが購入できる自販機が営業開始しました！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20240930_drone_school.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20240930_drone_school.php</link>
+      <title>マイクロドローンスクール（NSIドローンスクール）の受講生を募集しています</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/kakueki_elevator_maintenance.php</guid>
+      <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/kakueki_elevator_maintenance.php</link>
+      <title>各駅エレベーターの点検日（予定）をお知らせします【2026年4月】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260331_newsreleaseevmj.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260331_newsreleaseevmj.php</link>
+      <title>EVモーターズ・ジャパン社のEVバスの今後の使用について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260331_human_capital_report.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260331_human_capital_report.php</link>
+      <title>人的資本に関する情報開示のガイドライン「ISO 30414」認証を継続取得しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260331_escortabeno.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260331_escortabeno.php</link>
+      <title>【Osaka Metroの民間学童】「えすこーとOsaka Metro 阿倍野校」が４月１日にオープン！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://osakametro-adera.jp/news/20260331</guid>
+      <link>https://osakametro-adera.jp/news/20260331</link>
+      <title>【大阪メトロアドエラ】 大阪メトロアドエラとPerion Japan、OOH環境ごとの広告アテンション・記憶定着率を比較する実証実験を実施</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro-service.jp/info/20250501/</guid>
+      <link>https://www.osakametro-service.jp/info/20250501/</link>
+      <title>【大阪メトロサービス】Osaka Metro 定期券発売所で臨時手荷物預かり所の営業期間を延長します。</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260330_emetro_chatbot.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260330_emetro_chatbot.php</link>
+      <title>e METROアプリにお客さまお問い合わせチャットボットを実装しました！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260331_hommachi_building.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260331_hommachi_building.php</link>
+      <title>Osaka Metro 本町ビル―「本町に、桜咲く。」のお知らせ</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260327_cnt_psc.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260327_cnt_psc.php</link>
+      <title>カーボンナノチューブ電極を用いた両面受光型ペロブスカイト太陽電池の長期耐久性実証実験を開始します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260325_tempoheiten.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260325_tempoheiten.php</link>
+      <title>飲食店舗 閉店のお知らせ</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260326_ai_mimamori_dounyuu.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260326_ai_mimamori_dounyuu.php</link>
+      <title>白杖及び車いすを検知する「AI見守りシステム」を追加導入します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s164.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s164.php</link>
+      <title>【夏vs冬】どっちが好き？Osaka Metro の制服を徹底解剖してみた【Metro News ＃164】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/tourism/event/2026_4_burariwalk.php</guid>
+      <link>https://subway.osakametro.co.jp/tourism/event/2026_4_burariwalk.php</link>
+      <title>2026年度 第1回 大阪・まち・再発見 ぶらりウォーク"大正の花々と潮風を感じるぶらり歩き"を2026年4月25日（土曜日）に開催します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/guide/relief_service/nanko_port_town_line/202604_NTrinjidia.php</guid>
+      <link>https://subway.osakametro.co.jp/guide/relief_service/nanko_port_town_line/202604_NTrinjidia.php</link>
+      <title>ニュートラム臨時運行について（2026年4月）</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260323_tennoji_esteishi.php</guid>
+      <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260323_tennoji_esteishi.php</link>
+      <title>御堂筋線 天王寺駅 エスカレーター利用停止について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://bus.osakametro.co.jp/news/news/bus/20260323_ocb_diakaisei.php</guid>
+      <link>https://bus.osakametro.co.jp/news/news/bus/20260323_ocb_diakaisei.php</link>
+      <title>【大阪シティバス】2026年4月1日（水）から一部停留所の発車時刻を変更します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://citybus-osaka.co.jp/notice/260323-2/</guid>
+      <link>https://citybus-osaka.co.jp/notice/260323-2/</link>
+      <title>【大阪シティバス】御堂筋ライナーの運行終了について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/ticket/20260319_onekansai_keizoku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/ticket/20260319_onekansai_keizoku.php</link>
+      <title>関西がひとつに！“8社連携”で実現する「ONE KANSAI QR乗車券」継続発売へ～関西周遊をもっと自由に、もっと楽しく～</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260319_kitakyu_train_pass.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260319_kitakyu_train_pass.php</link>
+      <title>デジタル乗車券「Osaka Metro ＆北大阪急行1日乗車券」をe METROアプリ、スルッとQRttoウェブサイトで発売！！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s163.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s163.php</link>
+      <title>【クイズ】このスタンプのモチーフは何？Osaka Metro の駅スタンプの世界第3弾【Metro News ＃163】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260318_30days_joshaken.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260318_30days_joshaken.php</link>
+      <title>2026年4月1日（水曜日）から顔認証改札も利用できるデジタル乗車券「Osaka Metro 30日乗車券」を期間限定で発売</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260318_osakametro_create.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260318_osakametro_create.php</link>
+      <title>Osaka Metro クリエイト「廃車再生プロジェクト」の新商品が登場！大好評のモケットを使用した「ロングシート型スマホスタンド」と「ぺんポーチ」の新柄を発売します。</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/elevator_escalator/20260317_imazato_ev.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/elevator_escalator/20260317_imazato_ev.php</link>
+      <title>千日前線 今里駅 6号出入口・エレベーター供用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260317_ferryterminal_toilet.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260317_ferryterminal_toilet.php</link>
+      <title>ニュートラム フェリーターミナル駅 多機能トイレ供用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260317_porttown_nishi_toilet.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260317_porttown_nishi_toilet.php</link>
+      <title>ニュートラム ポートタウン西駅 多機能トイレ供用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260316_konohana_ai_ondemand.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260316_konohana_ai_ondemand.php</link>
+      <title>Osaka Metro は大阪市此花区役所とAIオンデマンド交通の推進等に関する連携協定を締結します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260316_metro_opus_miyakojima.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260316_metro_opus_miyakojima.php</link>
+      <title>直営ポップアップ型販売店舗16号店『Metro Opus 都島店』を2026年3月30日（月曜日）にオープンします！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260311_expo2025_1st_anniversary.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260311_expo2025_1st_anniversary.php</link>
+      <title>2025年日本国際博覧会協会が開催する開幕1周年イベント「EXPO2025 Futures Station」に連動し、「大阪・関西万博開幕1周年記念イベント」を実施します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="false">https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260225_nishinakajimaminamigata_esc_teishi.php </guid>
+      <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260225_nishinakajimaminamigata_esc_teishi.php</link>
+      <title>【お知らせとお詫び】御堂筋線西中島南方駅エスカレーターの運転停止について 【2026年3月12日追記】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s162.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s162.php</link>
+      <title>【速報】ついにOsaka Metro 全134駅に設置完了！最後の駅はどこ？【Metro News ＃162】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260311_platform_screen_doors.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260311_platform_screen_doors.php</link>
+      <title>Osaka Metro 全134駅の可動式ホーム柵の整備が完了します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260311_yaominami_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260311_yaominami_homesaku.php</link>
+      <title>谷町線 八尾南駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260311_metro_opus_nagai.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260311_metro_opus_nagai.php</link>
+      <title>直営ポップアップ型販売店舗15号店『Metro Opus 長居店』を2026年3月18日（水曜日）にオープンします！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://osakamania.jp/mania/pancakes/</guid>
+      <link>https://osakamania.jp/mania/pancakes/</link>
+      <title>大阪の、おすすメトロ『オオサカマニア』新コンテンツ『あま～い誘惑！満たされる幸福感​【パンケーキ】』を追加しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260309_odb_area_24.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260309_odb_area_24.php</link>
+      <title>2026年3月26日（木曜日）から大阪市全24区でオンデマンドバスを運行～新たに8エリアで運行を開始します～</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/elevator_escalator/20260309_taisho_ev.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/elevator_escalator/20260309_taisho_ev.php</link>
+      <title>長堀鶴見緑地線 大正駅 エレベーター供用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260307_soracle_osakametro.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260307_soracle_osakametro.php</link>
+      <title>Soracle、Osaka Metro と空飛ぶクルマの社会実装に向けた基本合意書を締結 ～大阪港バーティポートを運航拠点とし、空飛ぶクルマ社会実装に向けた取組みを推進～</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s161.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s161.php</link>
+      <title>Osaka Metro を快適に！優先座席の「配慮と勇気」【Metro News ＃161】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260305_kowa_jihanki.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260305_kowa_jihanki.php</link>
+      <title>Osaka Metro 千日前線 野田阪神駅に、「Q＆P αドリンク」などのヘルスケア飲料が購入できるコーワ自動販売機を設置しました！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260303_nagahara_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260303_nagahara_homesaku.php</link>
+      <title>谷町線 長原駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20250325_bouhan_camera.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20250325_bouhan_camera.php</link>
+      <title>車内防犯カメラ映像による異常検知技術の研究のため、車内防犯カメラ映像データを使用します（2026年3月2日更新）</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.recruit-osakametro.jp/</guid>
+      <link>https://www.recruit-osakametro.jp/</link>
+      <title>2027年度採用を開始しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s160.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s160.php</link>
+      <title>【全貌公開】1位はまさかの癒し系関西弁？Metro News キャラクター総選挙、最強の推しが決定！【Metro News ＃160】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260220_kyoudou_manner.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260220_kyoudou_manner.php</link>
+      <title>関西の鉄道事業者18社局による共同マナーキャンペーン「荷物の持ち方・置き方」を共通テーマとしてポスターを掲出します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260220_orix_spring_cp.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260220_orix_spring_cp.php</link>
+      <title>「オリックス・バファローズ 春の観戦ご招待キャンペーン」を実施します。</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/guide/maintenance/gateway/20260220_hirano_5_7gou_heisa.php</guid>
+      <link>https://subway.osakametro.co.jp/guide/maintenance/gateway/20260220_hirano_5_7gou_heisa.php</link>
+      <title>谷町線 平野駅 5号・7号出入口の一時閉鎖について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260219_osakametro_moncher.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260219_osakametro_moncher.php</link>
+      <title>【大阪マラソンEXPO2026】Osaka Metro ×「堂島ロール」のモンシェール 公式コラボ焼菓子販売決定</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260219_25gou_jidouunten.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260219_25gou_jidouunten.php</link>
+      <title>大阪市内路線バスにおける自動運転バス実証実験について（お知らせ）</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.city.osaka.lg.jp/toshikotsu/page/0000672899.html</guid>
+      <link>https://www.city.osaka.lg.jp/toshikotsu/page/0000672899.html</link>
+      <title>いまざとライナー（BRT）の運行による社会実験について実験開始7年目の利用状況等をまとめました【大阪市ホームページに移動します】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s159.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s159.php</link>
+      <title>電車がスグ横を通過⁉︎営業中の線路を歩いて点検する裏側に潜入【ハタラコメトロ〜工務部 保線区編〜】【Metro News ＃159】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260219_deto_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260219_deto_homesaku.php</link>
+      <title>谷町線 出戸駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260218_collaborationgoods_myaku_myaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260218_collaborationgoods_myaku_myaku.php</link>
+      <title>2026年2月20日（金曜日）から夢洲駅とミャクミャクがコラボしたアクリルキーホルダーを数量限定で販売します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260217_bside_label_collaboration.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260217_bside_label_collaboration.php</link>
+      <title>Osaka Metro とB-SIDE LABEL が初コラボ！Osaka Metro ならではのモチーフをたっぷり閉じ込めた、コラボステッカーを発売します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260217_new_omgoods.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260217_new_omgoods.php</link>
+      <title>2026年2月20日（金曜日）にOsaka Metro 鉄道グッズの新商品を発売します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260216_guinness_online_photomosaic.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260216_guinness_online_photomosaic.php</link>
+      <title>ギネス世界記録™に認定 オンラインフォトモザイクに世界最多人数の15,052人が参加しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260216_metro_opus_takaida.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260216_metro_opus_takaida.php</link>
+      <title>直営ポップアップ型販売店舗14号店『Metro Opus 高井田店』を2026年2月24日（火曜日）にオープンします！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260213_soracruise.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260213_soracruise.php</link>
+      <title>イマーシブシアター「そらクルーズ」を大阪港バーティポートに開設 ～万博の感動を再び 空飛ぶクルマの運航開始に先駆け、大阪で未来の空の旅を体感～</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260213_17ice_wrapping.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260213_17ice_wrapping.php</link>
+      <title>バレンタインデー・ホワイトデーに合わせて限定ラッピング自販機が出現中！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260213_osaka_marathon_goods.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260213_osaka_marathon_goods.php</link>
+      <title>［Osaka Metro ×大阪マラソン2026］オリジナル新商品を大阪マラソンEXPO2026で販売！MIZUNO製Tシャツや「堂島ロール」のモンシェールとのコラボ商品、他にもランナーにピッタリの商品を販売します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260212_himitsu_tunnel.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260212_himitsu_tunnel.php</link>
+      <title>「特別列車で行く！秘密のトンネル体験」を開催します～御堂筋線と四つ橋線をつなぐ連絡線など通常は通ることができない場所を走行～</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s158.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s158.php</link>
+      <title>Osaka Metro の想いに感動…！梅田3駅の改札外乗継に隠された秘話【Metro News ＃158】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260210_2025nendo_3qkessan.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260210_2025nendo_3qkessan.php</link>
+      <title>Osaka Metro Group 2025年度（2026年3月期）第3四半期決算について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://osakamania.jp/mania/handicraft/</guid>
+      <link>https://osakamania.jp/mania/handicraft/</link>
+      <title>大阪の、おすすメトロ『オオサカマニア』新コンテンツ『自由な発想で作る一点モノ​【手芸】』を追加しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260210_kire_uriwari_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260210_kire_uriwari_homesaku.php</link>
+      <title>谷町線 喜連瓜破駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260209_nambaekichika_kanbai.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260209_nambaekichika_kanbai.php</link>
+      <title>『なんばエキチカ プレミアムお買い物券』完売のお知らせ</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260206_monsterhunter.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260206_monsterhunter.php</link>
+      <title>Osaka Metro × モンスターハンター「MONSTER HUNTER SOUND QUEST」を開催します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro-service.jp/recruit/</guid>
+      <link>https://www.osakametro-service.jp/recruit/</link>
+      <title>【大阪メトロサービス】キャリア採用を実施しています</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260205_concert2026_spring.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260205_concert2026_spring.php</link>
+      <title>オオサカ・シオン・ウインド・オーケストラ 「Osaka Metro コンサート2026 Spring」に2,700名様を無料招待します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s157.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s157.php</link>
+      <title>Osaka Metro をコンプリート！新発売のスタンプ帳「駅印記」を持って出発進行！【Metro News ＃157】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260205_iyada_poster.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260205_iyada_poster.php</link>
+      <title>マナー啓発ポスター「こんなOsaka Metro は嫌だ！ vol.12 スムーズな乗車」を掲出します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260204_ekiinki.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260204_ekiinki.php</link>
+      <title>2026年2月20日（金曜日）にOsaka Metro 駅スタンプ帳「駅印記」を発売します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.osakametro.co.jp/news/news/other/20260202_escourt_abeno.php</guid>
+      <link>https://www.osakametro.co.jp/news/news/other/20260202_escourt_abeno.php</link>
+      <title>【Osaka Metro の子育て支援事業】都島駅前校に次いで2校目となる習いごとつき民間学童「えすこーとOsaka Metro 阿倍野校」を2026年4月に開校します。</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260129_satsueikai_tsurumi.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260129_satsueikai_tsurumi.php</link>
+      <title>長堀鶴見緑地線と今里筋線の車両を間近で撮影！鶴見検車場で車両撮影会を開催します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s156.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s156.php</link>
+      <title>Osaka Metro の駅に懐かしい自販機⁉その意外過ぎる中身に驚愕！【Metro News ＃156】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260128_local_guide_tour.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260128_local_guide_tour.php</link>
+      <title>「大阪マラソン2026」訪日旅行者向けのローカルガイドツアーを2026年1月30日（金曜日）から販売します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260122_ai_mimamori_dounyuu.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260122_ai_mimamori_dounyuu.php</link>
+      <title>白杖及び車いすを検知する「AI見守りシステム」を追加導入します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s155.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s155.php</link>
+      <title>駅スタンプの収集が楽しくなる見どころを解説！〜駅スタンプの世界②〜【Metro News ＃155】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260120_hirano_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260120_hirano_homesaku.php</link>
+      <title>谷町線 平野駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260119_yumeshima_award.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/20260119_yumeshima_award.php</link>
+      <title>Osaka Metro 中央線 夢洲駅が新たに5つの賞を受賞しました。</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://citybus-osaka.co.jp/notice/260116/</guid>
+      <link>https://citybus-osaka.co.jp/notice/260116/</link>
+      <title>【大阪シティバス】関西空港への「空港リムジンバス」の運行を開始します！</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260116_railways_esports_alliance.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260116_railways_esports_alliance.php</link>
+      <title>eスポーツ分野で国内初の東西鉄道4社連携がスタート 「鉄道eスポーツアライアンス」を設立〜鉄道×eスポーツで、沿線発の新たなコミュニティづくりに挑戦〜</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s154.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s154.php</link>
+      <title>ハタラコメトロ〜車両部 森之宮検車場 車両班編〜【Metro News ＃154】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://osakamania.jp/mania/uranai/</guid>
+      <link>https://osakamania.jp/mania/uranai/</link>
+      <title>大阪の、おすすメトロ『オオサカマニア』新コンテンツ『日常を楽しむヒント【占い】』を追加しました</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/safety/20260109_komagawa_nakano_homesaku.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/safety/20260109_komagawa_nakano_homesaku.php</link>
+      <title>谷町線 駒川中野駅 可動式ホーム柵の運用開始について</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news_release/20260108_line_touch.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news_release/20260108_line_touch.php</link>
+      <title>日本初！2026年1月9日（金曜日）から車内広告で「LINEタッチ」付き広告を掲出します</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/2026_omnews_s153.php</guid>
+      <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s153.php</link>
+      <title>大検証！車両の扉が閉まるチカラ【Metro News ＃153】</title>
+      <description />
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+  </channel>
+</rss>

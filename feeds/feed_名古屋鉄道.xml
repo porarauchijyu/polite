@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>名古屋鉄道</title>
+    <link>https://example.com/</link>
+    <description>名古屋鉄道 の最新ニュース</description>
+    <lastBuildDate>Fri, 24 Apr 2026 15:13:52 Z</lastBuildDate>
+    <a10:id>RSSGenerator</a10:id>
+  </channel>
+</rss>

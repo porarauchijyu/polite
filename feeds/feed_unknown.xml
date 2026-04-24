@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title />
+    <link>https://example.com/</link>
+    <description> の最新ニュース</description>
+    <lastBuildDate>Fri, 24 Apr 2026 15:13:52 Z</lastBuildDate>
+    <a10:id>RSSGenerator</a10:id>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014083.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014083.html</link>
+      <title>お知らせ                 2026年4月16日                 弱冷車の設定変更について</title>
+      <description />
+      <a10:updated>2026-04-24T15:09:10Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="false">https://odekake.hankyu.co.jp?link=hamburger</guid>
+      <link>https://odekake.hankyu.co.jp/?link=hamburger</link>
+      <title>ぷらっと阪急別ウィンドウで開く</title>
+      <description />
+      <a10:updated>2026-04-14T23:34:52Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://odekake.hankyu.co.jp/news/1</guid>
+      <link>https://odekake.hankyu.co.jp/news/1</link>
+      <title>お出かけルート提案Webサービス「ぷらっと阪急」をリニューアルしました</title>
+      <description />
+      <a10:updated>2026-04-14T23:34:52Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014047.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014047.html</link>
+      <title>お知らせ                 2026年4月6日                 春の全国交通安全運動の実施について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/008959.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/008959.html</link>
+      <title>お知らせ                 2026年3月31日                 各駅のエレベーター点検予定日</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014057.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014057.html</link>
+      <title>お知らせ                 2026年3月30日                 通学定期券を購入のお客様へ、購入までのチェックリストをご用意しました</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014055.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014055.html</link>
+      <title>お知らせ                 2026年3月26日                 生成ＡＩを活用した新たな「チャットボットサービス」の提供を開始しました</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014046.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014046.html</link>
+      <title>お知らせ                 2026年3月25日                 一部企画乗車券の磁気券発売終了およびデジタル企画乗車券への移行について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014056.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014056.html</link>
+      <title>お知らせ                 2026年3月24日                 春の嵐山線臨時列車の運転について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/009266.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/009266.html</link>
+      <title>お知らせ                 2026年3月23日                 阪急電鉄 契約社員募集</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014036.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014036.html</link>
+      <title>お知らせ                 2026年3月18日                 2026年4月1日（水）より、以下の駅の改札窓口の営業時間を、 7：00～22：00に変更します。</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014038.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014038.html</link>
+      <title>お知らせ                 2026年3月11日                 阪神電気鉄道との連絡普通券（大阪梅田駅経由）の発売終了について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/013613.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/013613.html</link>
+      <title>お知らせ                 2024年10月4日                 京福電鉄(嵐電)連絡定期券の発売終了について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/010036.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/010036.html</link>
+      <title>お知らせ                 2023年12月23日                 バス連絡定期券の発売終了について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/009149.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/009149.html</link>
+      <title>お知らせ                 2017年5月26日                 弾道ミサイル発射の情報を受信した場合の列車の運行について</title>
+      <description />
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
+  </channel>
+</rss>

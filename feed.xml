@@ -4,14 +4,22 @@
     <title>Custom RSS Feed</title>
     <link>https://example.com/</link>
     <description>RSS Generator Utility による自動生成フィード</description>
-    <lastBuildDate>Thu, 16 Apr 2026 01:08:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:13:51 Z</lastBuildDate>
     <a10:id>RSSGenerator</a10:id>
+    <item>
+      <guid isPermaLink="true">https://www.hankyu.co.jp/topics/detail/014083.html</guid>
+      <link>https://www.hankyu.co.jp/topics/detail/014083.html</link>
+      <title>お知らせ                 2026年4月16日                 弱冷車の設定変更について</title>
+      <description />
+      <a10:updated>2026-04-24T15:09:10Z</a10:updated>
+      <a10:content type="text"></a10:content>
+    </item>
     <item>
       <guid isPermaLink="true">https://www.westjr.co.jp/press/article/2026/04/15/page_30588.html</guid>
       <link>https://www.westjr.co.jp/press/article/2026/04/15/page_30588.html</link>
       <title>JR新大阪駅在来線改札内　エキマルシェ新大阪　 全館リニューアルに伴う店舗閉店のお知らせ（ジェイアール西日本デイリーサービスネット）</title>
       <description />
-      <a10:updated>2026-04-16T01:08:50+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:50Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -19,7 +27,7 @@
       <link>https://subway.osakametro.co.jp/news/news_release/20250415_kuragekan_piano.php</link>
       <title>2025年大阪・関西万博シグネチャーパビリオン「いのちの遊び場 クラゲ館」の“希望のピアノ”がOsaka Metro 本町ビルに登場 ～中島さち子氏によるKURAGE Band（クラゲバンド）特別演奏を開催～</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -27,7 +35,7 @@
       <link>https://subway.osakametro.co.jp/news/library/20260415_osaka_art_and_design_2026/20260415_osaka_art_and_design_2026.pdf</link>
       <title>梅田・中之島から心斎橋・なんば・阿倍野まで、アートとデザインが広がるイベント「Osaka Art &amp;amp; Design 2026」を2026年5月27日（水曜日）から2026年6月23日（火曜日）に開催！</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -35,7 +43,7 @@
       <link>https://citybus-osaka.co.jp/notice/260415/</link>
       <title>【大阪シティバス】路線バス小型化の実証実験の中止のお知らせ</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -43,7 +51,7 @@
       <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260415_nippombashi_evteishi.php</link>
       <title>千日前線・堺筋線 日本橋駅　エレベーター利用停止について</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -51,7 +59,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260415_metro_opus_ayatakaya.php</link>
       <title>「綾鷹」とおにぎりを楽しむ！東京で話題の『おにぎり食堂 綾鷹屋』がMetro Opus なんば・西梅田店に関西初出店します！</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -59,7 +67,7 @@
       <link>https://subway.osakametro.co.jp/news/news_release/20260415_newsrelease.php</link>
       <title>代表取締役社長の異動（内定）に関するお知らせ</title>
       <description />
-      <a10:updated>2026-04-16T01:08:30+09:00</a10:updated>
+      <a10:updated>2026-04-16T01:08:30Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -67,7 +75,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/14/page_30580.html</link>
       <title>WESTERアプリが大きくパワーアップ！～近畿日本鉄道全駅での「マイ駅」登録・列車走行位置表示を開始！～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -75,7 +83,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/14/page_30576.html</link>
       <title>【鉄道コンセプトルーム第2弾】ヴィアイン新大阪ウエストに「500系新幹線ルーム」が登場します！</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -83,7 +91,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/14/page_30577.html</link>
       <title>＼ JR西日本×クリエイター「可哀想に！」コラボ商品販売決定！ ／ 4月30日（木）よりJRのお土産店舗にて販売（ジェイアール西日本デイリーサービスネット）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -91,7 +99,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/14/page_30578.html</link>
       <title>今年の松江水郷祭花火はお楽しみいっぱいのtabiwaで！『2026松江水郷祭ドリーム・サンライズエクスプレス2日間』を販売します</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -99,7 +107,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/13/page_30574.html</link>
       <title>カスハラの防止啓発に関する鉄道事業者の取組みについて～今年度も鉄道事業者が共同で、カスハラ防止啓発に係るポスターを掲出します！～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -107,7 +115,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/13/page_30575.html</link>
       <title>島根県立美術館の観覧券をtabiwaで販売！～オリジナルラベルドリンク付観覧券がおすすめ！～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -115,7 +123,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/13/page_30573.html</link>
       <title>春の「みまさかスローライフ列車」の運転について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -123,7 +131,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30572.html</link>
       <title>「DX銘柄2026」に初選定</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -131,7 +139,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30569.html</link>
       <title>ゴールデンウィーク期間の指定席予約状況について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -139,7 +147,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30566.html</link>
       <title>在来線における定期券サービス向上について～交通系ICカードのエリア外の駅でモバイル定期券がご利用可能に～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -147,7 +155,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30567.html</link>
       <title>2026年夏「WEST EXPRESS 銀河」紀南コース運転計画について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -155,7 +163,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30564.html</link>
       <title>毎月15日は「WESTERモールの日」！全国各地のご当地グルメなど全商品対象でWESTERポイント5倍！～毎月15日のオンラインショッピングで、全商品WESTERポイントが5倍たまります～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -163,7 +171,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30565.html</link>
       <title>芸備線　三次駅～下深川駅間における昼間時間帯集中工事による代行バス時刻等のお知らせについて（5月～6月）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -171,7 +179,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30563.html</link>
       <title>山陰線 長門市駅～下関駅間における昼間時間帯集中工事に伴う代行輸送のお知らせについて</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -179,7 +187,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30562.html</link>
       <title>山陽線 小月駅～下関駅間における昼間時間帯集中工事による代行バス時刻等のお知らせについて</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -187,7 +195,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30568.html</link>
       <title>JR西日本岡山支社キャラクター「くまなく・たびにゃん」の「桃太郎バージョン」が新登場！</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -195,7 +203,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30571.html</link>
       <title>大阪ステーションシティは5月4日に開業15周年を迎えます～周年イヤーを彩る特別ロゴを制作し、記念イベントやプロモーション等を展開～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -203,7 +211,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30561.html</link>
       <title>大阪ステーションシティで春のアートイベント「PICTURE BOOK PARK」を開催！～親子で楽しめるイベントが盛りだくさん～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -211,7 +219,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30570.html</link>
       <title>［大阪市初］5つの認定を同時に取得（予定）する総261邸の大規模マンションプロジェクト、再開発が進む淡路エリアに新発表－淡路エリア・最大級の新築分譲マンション「ジェイグラン シティ 淡路」－（JR西日本不動産開発）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -219,7 +227,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/10/page_30560.html</link>
       <title>ビエラ福知山のリニューアルについて ～立ち寄り、過ごし、つながりを育む駅のフリースペースが誕生～（JR西日本不動産開発）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -227,7 +235,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30553.html</link>
       <title>「ジャパン・レール・パス」の価格改定について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -235,7 +243,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30558.html</link>
       <title>山陽新幹線　臨時列車の追加運転のお知らせ</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -243,7 +251,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30557.html</link>
       <title>～駅のホームの安全性向上にむけて～ホーム柵の使用開始と工事着手ホーム安全スクリーンの使用開始について（2026年度）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -251,7 +259,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30554.html</link>
       <title>岡山県～香川県の通勤・通学がもっと便利に！JR西日本とJR四国をまたがる定期券をICOCA・モバイルICOCAで発売します！</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -259,7 +267,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30559.html</link>
       <title>山陽新幹線「グリーン車」車内販売期間限定で『山陽新幹線沿線フェア』を開催します（ジェイアール西日本フードサービスネット）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -267,7 +275,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30556.html</link>
       <title>WESTERポイント最大1,000ポイントが当日もらえる ｢ゴールデンウィークはJRで三井アウトレットパーク 倉敷へICOCA！」キャンペーンを開催します</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -275,7 +283,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/09/page_30555.html</link>
       <title>「DBJ Green Building 認証」取得に関するお知らせ （プレディアコート鷺沼）（JR西日本プロパティーズ）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -283,7 +291,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/08/page_30552.html</link>
       <title>2026年4月社長会見</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -291,7 +299,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/08/page_30581.html</link>
       <title>＜ホテル朝食の常識を変える＞ポテルなら、いつでも、どこでも、何度でも。無限朝食 無限にループできる朝食。梅小路ポテル京都で4月15日（水）スタート！（JR西日本ホロニック）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -299,7 +307,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/07/page_30550.html</link>
       <title>WESTERアプリが大きくパワーアップ！～愛知環状鉄道全駅での「マイ駅」登録を開始！～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -307,7 +315,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/07/page_30548.html</link>
       <title>「総額100万ポイント★どーんと大放出！四国春夏キャンペーン」の実施について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -315,7 +323,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/07/page_30547.html</link>
       <title>ありがとう、「ハローキティ新幹線」最終運行に向けたご案内</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -323,7 +331,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/07/page_30549.html</link>
       <title>「TWILIGHT EXPRESS 瑞風」を舞台とした国際文学プロジェクト「24時間小説（Les 24 heures du roman）」への特別協力について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -331,7 +339,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/07/page_30546.html</link>
       <title>山陰線 鳥取駅～倉吉駅における夜間時間帯集中工事に伴う代行輸送のお知らせについて</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -339,7 +347,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/06/page_30545.html</link>
       <title>グランクラスがつかえるポイント商品が初登場！ WESTERポイントで鉄道が利用できる商品（4商品）を期間限定で発売します！</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -347,7 +355,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/06/page_30543.html</link>
       <title>「大阪ステーションシティ×ドラマチック謎解きゲーム」が開業15周年記念でさらに進化！3年目の集大成、新作「交差する街の物語（ミステリー）」開催！～4月6日から予約受付開始！謎解きは、4月29日から11月30日まで～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -355,7 +363,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/06/page_30544.html</link>
       <title>パナソニックスタジアム吹田でのWESTERポイント及びWesmo!導入を記念しキャンペーンを実施</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -363,7 +371,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/03/page_30537.html</link>
       <title>収入概況（3月分）について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -371,7 +379,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/02/page_30536.html</link>
       <title>5月開催のイベントのおしらせ（京都鉄道博物館）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -379,7 +387,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/02/page_30534.html</link>
       <title>今年の松江水郷祭花火は特典いっぱいのtabiwaで！『JR西日本tabiwa限定席』を販売します</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -387,7 +395,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/01/page_30529.html</link>
       <title>山口市ふるさと納税返礼品SLやまぐち号バックヤードツアーの提供について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -395,7 +403,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/01/page_30531.html</link>
       <title>SLやまぐち号 特別体験ツアー　～普段入ることのできないバックヤードを見学！～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -403,7 +411,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/01/page_30532.html</link>
       <title>「国鉄型機関車 EF65 夜間撮影会 in 下関 vol.2」発売について～前回好評を博したイベントを再び開催いたします～</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -411,7 +419,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/01/page_30528.html</link>
       <title>【ホテルグランヴィア岡山】16階客室リニューアル全室に「ReFa」のシャワーヘッド＆ドライヤー導入～「ReFa」お持ち帰り特典付プランや朝食無料プランなど記念プランを販売開始～（ジェイアール西日本ホテル開発）</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -419,7 +427,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/01/page_30527.html</link>
       <title>2026年度採用実績について</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -427,7 +435,7 @@
       <link>https://www.westjr.co.jp/press/article/2026/04/14/page_30579.html</link>
       <title>共創で進化する鉄道電気分野の「設備のスマートメンテナンス」や「工事業務の機械化・DX」</title>
       <description />
-      <a10:updated>2026-04-14T23:34:57+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:57Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -435,7 +443,7 @@
       <link>https://odekake.hankyu.co.jp/?link=hamburger</link>
       <title>ぷらっと阪急別ウィンドウで開く</title>
       <description />
-      <a10:updated>2026-04-14T23:34:52+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:52Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -443,7 +451,7 @@
       <link>https://odekake.hankyu.co.jp/news/1</link>
       <title>お出かけルート提案Webサービス「ぷらっと阪急」をリニューアルしました</title>
       <description />
-      <a10:updated>2026-04-14T23:34:52+09:00</a10:updated>
+      <a10:updated>2026-04-14T23:34:52Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -451,7 +459,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014047.html</link>
       <title>お知らせ                 2026年4月6日                 春の全国交通安全運動の実施について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -459,7 +467,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/008959.html</link>
       <title>お知らせ                 2026年3月31日                 各駅のエレベーター点検予定日</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -467,7 +475,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014057.html</link>
       <title>お知らせ                 2026年3月30日                 通学定期券を購入のお客様へ、購入までのチェックリストをご用意しました</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -475,7 +483,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014055.html</link>
       <title>お知らせ                 2026年3月26日                 生成ＡＩを活用した新たな「チャットボットサービス」の提供を開始しました</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -483,7 +491,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014046.html</link>
       <title>お知らせ                 2026年3月25日                 一部企画乗車券の磁気券発売終了およびデジタル企画乗車券への移行について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -491,7 +499,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014056.html</link>
       <title>お知らせ                 2026年3月24日                 春の嵐山線臨時列車の運転について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -499,7 +507,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/009266.html</link>
       <title>お知らせ                 2026年3月23日                 阪急電鉄 契約社員募集</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -507,7 +515,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014036.html</link>
       <title>お知らせ                 2026年3月18日                 2026年4月1日（水）より、以下の駅の改札窓口の営業時間を、 7：00～22：00に変更します。</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -515,7 +523,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/014038.html</link>
       <title>お知らせ                 2026年3月11日                 阪神電気鉄道との連絡普通券（大阪梅田駅経由）の発売終了について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -523,7 +531,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/013613.html</link>
       <title>お知らせ                 2024年10月4日                 京福電鉄(嵐電)連絡定期券の発売終了について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -531,7 +539,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/010036.html</link>
       <title>お知らせ                 2023年12月23日                 バス連絡定期券の発売終了について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -539,7 +547,7 @@
       <link>https://www.hankyu.co.jp/topics/detail/009149.html</link>
       <title>お知らせ                 2017年5月26日                 弾道ミサイル発射の情報を受信した場合の列車の運行について</title>
       <description />
-      <a10:updated>2026-04-14T22:44:09+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:44:09Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -547,7 +555,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260414_30000akei_goods.php</link>
       <title>30000A系の中央線から谷町線への転用を記念した新商品を発売します！</title>
       <description />
-      <a10:updated>2026-04-14T22:43:59+09:00</a10:updated>
+      <a10:updated>2026-04-14T22:43:59Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -555,7 +563,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260413_metro_opus_tengachaya.php</link>
       <title>直営ポップアップ型販売店舗17号店『Metro Opus 天下茶屋店』を2026年4月20日（月曜日）にオープンします！</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -563,7 +571,7 @@
       <link>https://osakamania.jp/mania/napolitan/</link>
       <title>「大阪の、おすすメトロ『オオサカマニア』新コンテンツ『古き良き定番パスタ【ナポリタン】』を追加しました</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -571,7 +579,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260408_expo1st_myaku_myaku_tsuika.php</link>
       <title>大阪・関西万博開幕1周年記念 ミャクミャクコラボグッズ特別販売会【販売商品追加のお知らせ】</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -579,7 +587,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260406_expo1st_myaku_myaku.php</link>
       <title>大阪・関西万博開幕1周年記念 ミャクミャクコラボグッズ特別販売会を開催します</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -587,7 +595,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/20260406_kotsu_anzen_undou.php</link>
       <title>2026年度 春の全国交通安全運動の実施について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -595,7 +603,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/20260401_fukugouhanbai_jihanki.php</link>
       <title>急なお困りごとを解決！御堂筋線 本町駅ほか3駅にて、ばんそうこうやマスク、フェイスパックなどが購入できる自販機が営業開始しました！</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -603,7 +611,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20240930_drone_school.php</link>
       <title>マイクロドローンスクール（NSIドローンスクール）の受講生を募集しています</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -611,7 +619,7 @@
       <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/kakueki_elevator_maintenance.php</link>
       <title>各駅エレベーターの点検日（予定）をお知らせします【2026年4月】</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -619,7 +627,7 @@
       <link>https://subway.osakametro.co.jp/news/news_release/20260331_newsreleaseevmj.php</link>
       <title>EVモーターズ・ジャパン社のEVバスの今後の使用について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -627,7 +635,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260331_human_capital_report.php</link>
       <title>人的資本に関する情報開示のガイドライン「ISO 30414」認証を継続取得しました</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -635,7 +643,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260331_escortabeno.php</link>
       <title>【Osaka Metroの民間学童】「えすこーとOsaka Metro 阿倍野校」が４月１日にオープン！</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -643,7 +651,7 @@
       <link>https://osakametro-adera.jp/news/20260331</link>
       <title>【大阪メトロアドエラ】 大阪メトロアドエラとPerion Japan、OOH環境ごとの広告アテンション・記憶定着率を比較する実証実験を実施</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -651,7 +659,7 @@
       <link>https://www.osakametro-service.jp/info/20250501/</link>
       <title>【大阪メトロサービス】Osaka Metro 定期券発売所で臨時手荷物預かり所の営業期間を延長します。</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -659,7 +667,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260330_emetro_chatbot.php</link>
       <title>e METROアプリにお客さまお問い合わせチャットボットを実装しました！</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -667,7 +675,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260331_hommachi_building.php</link>
       <title>Osaka Metro 本町ビル―「本町に、桜咲く。」のお知らせ</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -675,7 +683,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260327_cnt_psc.php</link>
       <title>カーボンナノチューブ電極を用いた両面受光型ペロブスカイト太陽電池の長期耐久性実証実験を開始します</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -683,7 +691,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260325_tempoheiten.php</link>
       <title>飲食店舗 閉店のお知らせ</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -691,7 +699,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/20260326_ai_mimamori_dounyuu.php</link>
       <title>白杖及び車いすを検知する「AI見守りシステム」を追加導入します</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -699,7 +707,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s164.php</link>
       <title>【夏vs冬】どっちが好き？Osaka Metro の制服を徹底解剖してみた【Metro News ＃164】</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -707,7 +715,7 @@
       <link>https://subway.osakametro.co.jp/tourism/event/2026_4_burariwalk.php</link>
       <title>2026年度 第1回 大阪・まち・再発見 ぶらりウォーク"大正の花々と潮風を感じるぶらり歩き"を2026年4月25日（土曜日）に開催します</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -715,7 +723,7 @@
       <link>https://subway.osakametro.co.jp/guide/relief_service/nanko_port_town_line/202604_NTrinjidia.php</link>
       <title>ニュートラム臨時運行について（2026年4月）</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -723,7 +731,7 @@
       <link>https://subway.osakametro.co.jp/guide/maintenance/elevator_escalator/20260323_tennoji_esteishi.php</link>
       <title>御堂筋線 天王寺駅 エスカレーター利用停止について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -731,7 +739,7 @@
       <link>https://bus.osakametro.co.jp/news/news/bus/20260323_ocb_diakaisei.php</link>
       <title>【大阪シティバス】2026年4月1日（水）から一部停留所の発車時刻を変更します</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -739,7 +747,7 @@
       <link>https://citybus-osaka.co.jp/notice/260323-2/</link>
       <title>【大阪シティバス】御堂筋ライナーの運行終了について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -747,7 +755,7 @@
       <link>https://subway.osakametro.co.jp/news/news/ticket/20260319_onekansai_keizoku.php</link>
       <title>関西がひとつに！“8社連携”で実現する「ONE KANSAI QR乗車券」継続発売へ～関西周遊をもっと自由に、もっと楽しく～</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -755,7 +763,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/20260319_kitakyu_train_pass.php</link>
       <title>デジタル乗車券「Osaka Metro ＆北大阪急行1日乗車券」をe METROアプリ、スルッとQRttoウェブサイトで発売！！</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -763,7 +771,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/2026_omnews_s163.php</link>
       <title>【クイズ】このスタンプのモチーフは何？Osaka Metro の駅スタンプの世界第3弾【Metro News ＃163】</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -771,7 +779,7 @@
       <link>https://subway.osakametro.co.jp/news/news_release/20260318_30days_joshaken.php</link>
       <title>2026年4月1日（水曜日）から顔認証改札も利用できるデジタル乗車券「Osaka Metro 30日乗車券」を期間限定で発売</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -779,7 +787,7 @@
       <link>https://www.osakametro.co.jp/news/news/other/20260318_osakametro_create.php</link>
       <title>Osaka Metro クリエイト「廃車再生プロジェクト」の新商品が登場！大好評のモケットを使用した「ロングシート型スマホスタンド」と「ぺんポーチ」の新柄を発売します。</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -787,7 +795,7 @@
       <link>https://subway.osakametro.co.jp/news/news/elevator_escalator/20260317_imazato_ev.php</link>
       <title>千日前線 今里駅 6号出入口・エレベーター供用開始について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
     <item>
@@ -795,15 +803,7 @@
       <link>https://subway.osakametro.co.jp/news/news/other/20260317_ferryterminal_toilet.php</link>
       <title>ニュートラム フェリーターミナル駅 多機能トイレ供用開始について</title>
       <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
-      <a10:content type="text"></a10:content>
-    </item>
-    <item>
-      <guid isPermaLink="true">https://subway.osakametro.co.jp/news/news/other/20260317_porttown_nishi_toilet.php</guid>
-      <link>https://subway.osakametro.co.jp/news/news/other/20260317_porttown_nishi_toilet.php</link>
-      <title>ニュートラム ポートタウン西駅 多機能トイレ供用開始について</title>
-      <description />
-      <a10:updated>2026-04-14T00:11:22+09:00</a10:updated>
+      <a10:updated>2026-04-14T00:11:22Z</a10:updated>
       <a10:content type="text"></a10:content>
     </item>
   </channel>
