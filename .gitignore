@@ -5,6 +5,4 @@
 *.userosscache
 *.sln.docstates
 .vs/
-feed.sqlite
-feed.xml
 settings.json

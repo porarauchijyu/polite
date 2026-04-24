@@ -1,0 +1,42 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 毎時0分に実行
+  workflow_dispatch:    # 手動実行用
+
+jobs:
+  build-and-run:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1
+
+    - name: Restore NuGet packages
+      run: nuget restore RssGenerator.csproj
+
+    - name: Build application
+      run: msbuild RssGenerator.csproj /p:Configuration=Debug /p:Platform="Any CPU"
+
+    - name: Run RSS Generator
+      run: |
+        .\bin\Debug\net48\RssGenerator.exe --run
+      shell: pwsh
+
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add feed.xml feed.sqlite targets.json
+        git commit -m "chore: auto-update RSS feed [skip ci]" || echo "No changes to commit"
+        git push
+      shell: pwsh
