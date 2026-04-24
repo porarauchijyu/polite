@@ -32,7 +32,7 @@ jobs:
 
     - name: Check executable exists
       run: |
-        if (Test-Path ".\bin\Debug\net48\RssGenerator.exe") {
+        if (Test-Path ".\bin\Any CPU\Debug\net48\RssGenerator.exe") {
           echo "Executable found."
         } else {
           echo "Executable NOT found!"
@@ -43,7 +43,7 @@ jobs:
     - name: Run RSS Generator
       run: |
         # 実行時のエラー出力を確実にキャッチする
-        .\bin\Debug\net48\RssGenerator.exe --run
+        & ".\bin\Any CPU\Debug\net48\RssGenerator.exe" --run
       shell: pwsh
       continue-on-error: false
 
