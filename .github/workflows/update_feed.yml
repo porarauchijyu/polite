@@ -30,10 +30,22 @@ jobs:
     - name: Build application
       run: msbuild RssGenerator.csproj /p:Configuration=Debug /p:Platform="Any CPU"
 
+    - name: Check executable exists
+      run: |
+        if (Test-Path ".\bin\Debug\net48\RssGenerator.exe") {
+          echo "Executable found."
+        } else {
+          echo "Executable NOT found!"
+          exit 1
+        }
+      shell: pwsh
+
     - name: Run RSS Generator
       run: |
+        # 実行時のエラー出力を確実にキャッチする
         .\bin\Debug\net48\RssGenerator.exe --run
       shell: pwsh
+      continue-on-error: false
 
     - name: Commit and Push changes
       run: |
