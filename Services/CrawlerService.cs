@@ -350,7 +350,6 @@ namespace RssGenerator.Services
             {
                 Headless = this.Headless,
                 ExecutablePath = path,
-                WebSocketPipe = true, // WebSocket の制限を回避
                 UserDataDir = userDataDir, // デフォルトの一時フォルダ制限を回避
                 Args = new[] { 
                     "--no-sandbox", 
