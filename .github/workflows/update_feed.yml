@@ -5,6 +5,9 @@ on:
     - cron: '0 * * * *' # 毎時0分に実行
   workflow_dispatch:    # 手動実行用
 
+permissions:
+  contents: write
+
 jobs:
   build-and-run:
     runs-on: windows-latest
