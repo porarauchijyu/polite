@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "",
+    "Url": "https://www.osakametro.co.jp/news/news_list.php",
+    "TitleSelector": "a.cs-newsLink",
+    "LinkSelector": "a.cs-newsLink",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 2,
+    "Name": "",
+    "Url": "https://news.yahoo.co.jp/topics/top-picks",
+    "TitleSelector": "section[class*='Topics'] article a",
+    "LinkSelector": "section[class*='Topics'] article a",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 3,
+    "Name": "",
+    "Url": "https://www.hankyu.co.jp/topics/index.html",
+    "TitleSelector": "a[href*='/topics/detail/'] p:last-child, a[href*='odekake.hankyu.co.jp'] p:last-child",
+    "LinkSelector": "a[href*='/topics/detail/'], a[href*='odekake.hankyu.co.jp']",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 7,
+    "Name": "",
+    "Url": "https://www.westjr.co.jp/press/",
+    "TitleSelector": "div.news-list__link a",
+    "LinkSelector": "div.news-list__link a",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  }
+]

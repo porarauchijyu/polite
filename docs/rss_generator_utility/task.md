@@ -1,0 +1,6 @@
+- [ ] `task.md` の初期化
+- [ ] `App.config` の作成 (アセンブリ探索パスの設定)
+- [ ] `CrawlerService.cs` の修正 (ブラウザ保存パスの設定)
+- [ ] `RssGenerator.csproj` の修正 (ビルド後のファイル移動ターゲット追加)
+- [ ] 動作確認とクリーンアップ
+- [ ] 完了報告 (`walkthrough.md`) の作成

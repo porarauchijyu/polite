@@ -1,0 +1,5 @@
+{
+  "BrowserPath": "",
+  "Headless": true,
+  "DefaultWaitMs": 3000
+}

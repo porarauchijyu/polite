@@ -1,0 +1,4 @@
+- [x] CI環境（GitHub Actions）の検知ロジックを追加
+- [x] `.github/workflows/rss-generator-run.yml` を作成
+- [x] ローカルでの引数付き実行の最終確認
+- [x] 設定手順のまとめを作成

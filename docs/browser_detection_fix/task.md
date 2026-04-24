@@ -1,0 +1,8 @@
+- [x] 設定管理クラスの作成 (`AppSettings.cs`)
+- [x] デフォルト設定ファイルの作成 (`settings.json`)
+- [x] `CrawlerService.cs` のロジック改善
+    - [x] `settings.json` の読み込みと反映
+    - [x] ブラウザ検索パスの強化
+    - [x] 詳細なエラーログ出力の実装
+- [x] `MainWindow.xaml.cs` のログ出力調整
+- [x] 動作確認 (ビルド正常完了を確認)

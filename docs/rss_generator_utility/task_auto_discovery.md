@@ -1,0 +1,6 @@
+- [/] `task.md` の初期化
+- [ ] `Services/CrawlerService.cs` の拡張（JS実行機能の追加）
+- [ ] `Services/InferenceService.cs` の追加（推論ロジックの実装）
+- [ ] `Program.cs` の更新（`--add` コマンドの実装）
+- [ ] 動作確認（テストURLでの推論テスト）
+- [ ] 完了報告（walkthrough.md）の作成

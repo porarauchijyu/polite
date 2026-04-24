@@ -1,0 +1,6 @@
+- [x] `CrawlerService` で `LaunchBrowserAsync` のオプションを強化
+    - [x] `Pipe = true` を追加
+    - [x] `UserDataDir` を明示的に指定
+    - [x] 安定性向上のための追加の `Args` をセット
+- [x] ブラウザ起動失敗時のログ出力をより詳細にする
+- [x] 修正後の起動動作の確認

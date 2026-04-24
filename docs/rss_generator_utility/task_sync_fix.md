@@ -1,0 +1,6 @@
+- [/] `task.md` の初期化
+- [ ] `Services/DatabaseService.cs` の修正（UPSERT実装）
+- [ ] `targets.json` のセレクタ更新（Yahoo!ニュース等）
+- [ ] `Program.cs` のログ出力強化
+- [ ] 全ターゲットの巡回テスト
+- [ ] 完了報告（walkthrough.md）の作成

@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <StartupObject>RssGenerator.Program</StartupObject>
+    <LangVersion>7.3</LangVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fizzler.Systems.HtmlAgilityPack" Version="1.2.1" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.74" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="PuppeteerSharp" Version="24.38.0" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119.0" />
+    <PackageReference Include="System.ServiceModel.Syndication" Version="10.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Scripts\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <Target Name="OrganizeOutput" AfterTargets="Build">
+    <ItemGroup>
+      <DllFiles Include="$(OutputPath)*.dll" />
+      <NativeFilesX64 Include="$(OutputPath)x64\**\*.*" />
+      <NativeFilesX86 Include="$(OutputPath)x86\**\*.*" />
+    </ItemGroup>
+    <Move SourceFiles="@(DllFiles)" DestinationFolder="$(OutputPath)runtimes" />
+    <Move SourceFiles="@(NativeFilesX64)" DestinationFiles="@(NativeFilesX64->'$(OutputPath)runtimes\x64\%(RecursiveDir)%(Filename)%(Extension)')" />
+    <Move SourceFiles="@(NativeFilesX86)" DestinationFiles="@(NativeFilesX86->'$(OutputPath)runtimes\x86\%(RecursiveDir)%(Filename)%(Extension)')" />
+    <Exec Command="if exist &quot;$(OutputPath)Chrome&quot; ( xcopy /E /I /Y &quot;$(OutputPath)Chrome&quot; &quot;$(OutputPath)runtimes\Chrome&quot; &amp;&amp; rd /S /Q &quot;$(OutputPath)Chrome&quot; )" />
+    <Exec Command="if exist &quot;$(OutputPath)ChromeHeadlessShell&quot; ( xcopy /E /I /Y &quot;$(OutputPath)ChromeHeadlessShell&quot; &quot;$(OutputPath)runtimes\ChromeHeadlessShell&quot; &amp;&amp; rd /S /Q &quot;$(OutputPath)ChromeHeadlessShell&quot; )" />
+    <RemoveDir Directories="$(OutputPath)x64;$(OutputPath)x86" />
+  </Target>
+
+</Project>

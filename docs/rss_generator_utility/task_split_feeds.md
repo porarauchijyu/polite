@@ -1,0 +1,7 @@
+- [x] `RssService.cs` の拡張
+    - [x] `GenerateRss` の引数調整（タイトル/説明のカスタマイズ対応）
+    - [x] サイト名サニタイズ用ヘルパーの実装
+    - [x] `GenerateAllFeeds` メソッドの実装
+- [x] `Program.cs` の更新 (`UpdateRssFeed` の呼び出し変更)
+- [x] `MainWindow.xaml.cs` の更新 (巡回後の RSS 更新処理の統合)
+- [x] 動作確認（ビルド正常完了を確認）

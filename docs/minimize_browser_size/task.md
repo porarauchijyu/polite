@@ -1,0 +1,7 @@
+- [x] `task.md` の作成
+- [x] `CrawlerService.cs` の修正
+    - [x] ブラウザパス検出ユーティリティの追加
+    - [x] `InitializeAsync` のダウンロード処理の無効化（基本スキップ）
+    - [x] `LaunchAsync` での `ExecutablePath` 指定
+- [x] 動作確認（ビルド確認）
+- [x] `walkthrough.md` の作成
