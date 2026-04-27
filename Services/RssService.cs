@@ -15,7 +15,7 @@ namespace RssGenerator.Services
             var feed = new SyndicationFeed(
                 title,
                 description,
-                new Uri("https://example.com"),
+                new Uri("https://github.com/porarauchijyu/polite"),
                 "RSSGenerator",
                 DateTime.Now
             );
