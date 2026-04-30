@@ -63,19 +63,14 @@ namespace RssGenerator.Services
             // 1. 全体まとめフィードの生成
             Console.WriteLine("[RSS] 全体まとめフィードを生成中...");
             var allItems = db.GetLatestItems(100);
-            GenerateRss(allItems, "feed.xml");
+            GenerateRss(allItems, PathHelper.ResolvePath("feed.xml"));
 
             // 2. サイト別フィードの生成
             var targets = db.GetTargets();
             
             // カレントディレクトリに feeds フォルダを作成 (GitHub Actions等でルートに保存されるように)
-            string feedsDir = "feeds";
-            if (File.Exists(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "RssGenerator.exe")))
-            {
-                // 実行ファイルと同じ階層に既にあるか、開発環境等での挙動を維持
-                // ただし、相対パスで "feeds" と指定すればカレントディレクトリが優先される
-            }
-            
+            // プロジェクトルートの feeds フォルダを使用
+            string feedsDir = PathHelper.ResolvePath("feeds");
             if (!Directory.Exists(feedsDir)) Directory.CreateDirectory(feedsDir);
 
             foreach (var target in targets)

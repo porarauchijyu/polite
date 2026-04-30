@@ -32,7 +32,7 @@ namespace RssGenerator
             // TLS 1.2 を有効化
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
 
-            Console.Title = "RSS Generator Utility (Premium Edition)";
+            try { Console.Title = "RSS Generator Utility (Premium Edition)"; } catch { }
             PrintHeader();
             
             // ... (既存の初期化)
@@ -88,6 +88,19 @@ namespace RssGenerator
                     return;
                 }
 
+                if (args.Length >= 1 && args[0] == "--run")
+                {
+                    // 巡回実行モード（--run）
+                    // そのまま下の処理へ進む
+                }
+                else if (args.Length >= 1 && args[0] != "--run")
+                {
+                    // 未知の引数の場合はヘルプを表示して終了
+                    PrintStatus($"未知の引数です: {args[0]}", ConsoleColor.Yellow);
+                    PrintHelp();
+                    return;
+                }
+
                 // 1. 設定の読み込みと同期
                 await LoadConfigurationAsync(db);
                 
@@ -108,13 +121,14 @@ namespace RssGenerator
                 }
 
                 // 4. RSSフィードの生成
-                if (hasGlobalUpdates)
+                // 更新があった場合、または --run 指定（CI等）の場合は、常にフィードを再生成する
+                if (hasGlobalUpdates || (args.Length > 0 && args[0] == "--run"))
                 {
                     UpdateRssFeed(db, rss);
                 }
                 else
                 {
-                    PrintStatus("新しい更新は見つかりませんでした。", ConsoleColor.Gray);
+                    PrintStatus("新しい更新は見つかりませんでした。フィードの更新をスキップします。", ConsoleColor.Gray);
                 }
             }
             catch (Exception ex)
