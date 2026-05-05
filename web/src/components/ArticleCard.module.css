@@ -12,6 +12,14 @@
   border-color: var(--accent-color);
 }
 
+.read {
+  opacity: 0.6;
+}
+
+.read:hover {
+  opacity: 1;
+}
+
 .header {
   display: flex;
   justify-content: space-between;

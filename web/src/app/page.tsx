@@ -1,6 +1,6 @@
 import fs from 'fs-extra';
 import path from 'path';
-import ArticleCard from '@/components/ArticleCard';
+import ArticleList from '@/components/ArticleList';
 
 interface Article {
   title: string;
@@ -36,20 +36,7 @@ export default async function Home() {
         </p>
       </section>
 
-      <div className="article-list">
-        {articles.length > 0 ? (
-          articles.map((article, index) => (
-            <ArticleCard
-              key={`${article.link}-${index}`}
-              {...article}
-            />
-          ))
-        ) : (
-          <p style={{ textAlign: 'center', padding: '4rem', color: 'var(--text-secondary)' }}>
-            No articles found. Run the scraper to fetch latest data.
-          </p>
-        )}
-      </div>
+      <ArticleList initialArticles={articles} />
     </div>
   );
 }

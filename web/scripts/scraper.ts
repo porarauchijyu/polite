@@ -7,10 +7,12 @@ import { format } from 'date-fns';
 import { JSDOM } from 'jsdom';
 
 const TARGETS_PATH = path.join(process.cwd(), '../targets.json');
+const PUBLIC_TARGETS_PATH = path.join(process.cwd(), 'public/data/targets.json');
 const OUTPUT_DATA_PATH = path.join(process.cwd(), 'public/data/articles.json');
 const FEEDS_DIR = path.join(process.cwd(), 'public/feeds');
 
 interface Target {
+  Id: number;
   Name: string;
   Url: string;
   ContainerSelector?: string;
@@ -46,7 +48,6 @@ function cleanText(text: string): string {
 }
 
 async function inferSelectors(page: Page) {
-  // 既存の InferenceService.cs 内のスクリプトを移植/再利用
   const script = `
     (() => {
       const links = Array.from(document.querySelectorAll('a'));
@@ -105,6 +106,9 @@ async function scrape() {
     return;
   }
 
+  // targets.json を public フォルダにコピー（UI用）
+  await fs.copy(TARGETS_PATH, PUBLIC_TARGETS_PATH);
+
   const targets: Target[] = await fs.readJson(TARGETS_PATH);
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
@@ -154,7 +158,6 @@ async function scrape() {
             const href = await linkEl.getAttribute('href');
             const link = href ? normalizeUrl(target.Url, href) : '';
 
-            // フィルタリング
             const isJunk = junkWords.some(word => title.toLowerCase().includes(word));
             const isTooShort = title.length < 5;
 
@@ -173,7 +176,6 @@ async function scrape() {
         }
       }
 
-      // RSS Feed 出力
       const feed = new RSS({
         title: siteName,
         feed_url: `${target.Url}/rss.xml`,
@@ -201,7 +203,6 @@ async function scrape() {
 
   await browser.close();
   
-  // 最新順にソートして保存
   allArticles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   await fs.writeJson(OUTPUT_DATA_PATH, allArticles, { spaces: 2 });
   
