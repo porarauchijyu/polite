@@ -38,14 +38,14 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
     setIsSaving(true);
     try {
       // 現在の全サイトデータを再取得
-      const res = await fetch('/data/targets.json');
+      const res = await fetch('/polite/data/targets.json');
       let currentTargets = [];
       if (res.ok) {
         currentTargets = await res.json();
       } else {
-        // フォールバック
-        const res2 = await fetch('../../targets.json');
-        currentTargets = await res2.json();
+        // ローカル開発用フォールバック
+        const resLocal = await fetch('/data/targets.json');
+        if (resLocal.ok) currentTargets = await resLocal.json();
       }
 
       const newSite = {
@@ -143,12 +143,12 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
               </div>
               <iframe
                 ref={iframeRef}
-                src={`/api/proxy?url=${encodeURIComponent(url)}`}
+                src={`/polite/api/proxy?url=${encodeURIComponent(url)}`}
                 className={styles.iframe}
                 onLoad={() => {
                   setTimeout(() => {
                     const script = document.createElement('script');
-                    script.src = '/scripts/visualSelector.js';
+                    script.src = '/polite/scripts/visualSelector.js';
                     iframeRef.current?.contentWindow?.document.body.appendChild(script);
                   }, 1500);
                 }}
