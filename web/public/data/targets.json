@@ -1,0 +1,302 @@
+[
+  {
+    "Id": 1,
+    "Name": "Osaka Metro",
+    "Url": "https://www.osakametro.co.jp/news/news_list.php",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 2,
+    "Name": "",
+    "Url": "https://news.yahoo.co.jp/topics/top-picks",
+    "TitleSelector": "section[class*='Topics'] article a",
+    "LinkSelector": "section[class*='Topics'] article a",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 3,
+    "Name": "",
+    "Url": "https://www.hankyu.co.jp/topics/index.html",
+    "TitleSelector": "a[href*='/topics/detail/'] p:last-child, a[href*='odekake.hankyu.co.jp'] p:last-child",
+    "LinkSelector": "a[href*='/topics/detail/'], a[href*='odekake.hankyu.co.jp']",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 7,
+    "Name": "JR西日本",
+    "Url": "https://www.westjr.co.jp/press/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 25,
+    "Name": "Example News",
+    "Url": "http://example.com/news",
+    "TitleSelector": "a.title",
+    "LinkSelector": "a.link",
+    "ContainerSelector": "div.container",
+    "DescriptionSelector": "p.desc",
+    "DateSelector": "span.date"
+  },
+  {
+    "Id": 26,
+    "Name": "Example Blog",
+    "Url": "http://example.org/blog",
+    "TitleSelector": "h2 a",
+    "LinkSelector": "h2 a",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 27,
+    "Name": "BOM Test Site",
+    "Url": "http://bom-test.com",
+    "TitleSelector": "h1",
+    "LinkSelector": "a",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 28,
+    "Name": "JR東日本",
+    "Url": "https://www.jreast.co.jp/press/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 29,
+    "Name": "JR東海",
+    "Url": "https://jr-central.co.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 30,
+    "Name": "JR九州",
+    "Url": "https://www.jrkyushu.co.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 31,
+    "Name": "JR北海道",
+    "Url": "https://www.jrhokkaido.co.jp/press/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 32,
+    "Name": "JR四国",
+    "Url": "https://www.jrshikoku.co.jp/03_news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 33,
+    "Name": "JR貨物",
+    "Url": "https://www.jrfreight.co.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 34,
+    "Name": "阪急電鉄",
+    "Url": "https://www.hankyu.co.jp/company/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 35,
+    "Name": "阪神電車",
+    "Url": "https://www.hanshin.co.jp/press/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 36,
+    "Name": "京阪電気鉄道",
+    "Url": "https://www.keihan.co.jp/corporate/info/release/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 37,
+    "Name": "近畿日本鉄道",
+    "Url": "https://www.kintetsu.co.jp/all_info/whatsnew.html",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 38,
+    "Name": "南海電鉄",
+    "Url": "https://www.nankai.co.jp/information.html?year=2026",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 39,
+    "Name": "東京メトロ",
+    "Url": "https://www.tokyometro.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 40,
+    "Name": "東急電鉄",
+    "Url": "https://www.tokyu.co.jp/area/article/?tag=tokyu-railways-news",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 41,
+    "Name": "小田急電鉄",
+    "Url": "https://www.odakyu.jp/company/about/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 42,
+    "Name": "京王電鉄",
+    "Url": "https://www.keio.co.jp/news/update/announce/news_all.html",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 43,
+    "Name": "西武鉄道",
+    "Url": "https://www.seiburailway.jp/newsroom/list.html?keyword=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 44,
+    "Name": "東武鉄道",
+    "Url": "https://www.tobu.co.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 45,
+    "Name": "京成電鉄",
+    "Url": "https://www.keisei.co.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 46,
+    "Name": "相模鉄道",
+    "Url": "https://www.sotetsu.co.jp/pressrelease/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 47,
+    "Name": "名古屋鉄道",
+    "Url": "https://www.meitetsu.co.jp/profile/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 48,
+    "Name": "西日本鉄道",
+    "Url": "https://www.nishitetsu.co.jp/release/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 49,
+    "Name": "鉄道コム",
+    "Url": "https://www.tetsudo.com/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  },
+  {
+    "Id": 50,
+    "Name": "鉄道ファン railf.jp",
+    "Url": "https://railf.jp/news/",
+    "TitleSelector": "",
+    "LinkSelector": "",
+    "ContainerSelector": "",
+    "DescriptionSelector": "",
+    "DateSelector": ""
+  }
+]
