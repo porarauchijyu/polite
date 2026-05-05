@@ -23,14 +23,9 @@ export default function SitesPage() {
 
   const fetchTargets = async () => {
     try {
-      // 開発時は public フォルダのデータを取得
-      const res = await fetch('/data/targets.json');
-      if (!res.ok) {
-        // フォールバック: ルートの targets.json (ビルド時にコピーされる想定)
-        const res2 = await fetch('../../targets.json');
-        const data = await res2.json();
-        setTargets(data);
-      } else {
+      // basePath (/polite) を考慮したパス
+      const res = await fetch('/polite/data/targets.json');
+      if (res.ok) {
         const data = await res.json();
         setTargets(data);
       }
