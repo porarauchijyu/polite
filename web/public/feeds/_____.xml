@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[西日本鉄道]]></title>
+        <description><![CDATA[西日本鉄道]]></description>
+        <link>https://www.nishitetsu.co.jp/release/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 05 May 2026 15:46:23 GMT</lastBuildDate>
+        <atom:link href="https://www.nishitetsu.co.jp/release//rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[サステナブル経営の推進]]></title>
+            <link>https://www.nishitetsu.co.jp/ja/sustainability/management_promotion.html</link>
+            <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/sustainability/management_promotion.html</guid>
+            <pubDate>Tue, 05 May 2026 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[グループ・企業情報]]></title>
+            <link>https://www.nishitetsu.co.jp/ja/group.html</link>
+            <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/group.html</guid>
+            <pubDate>Tue, 05 May 2026 15:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[サステナブル経営]]></title>
+            <link>https://www.nishitetsu.co.jp/ja/sustainability.html</link>
+            <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/sustainability.html</guid>
+            <pubDate>Tue, 05 May 2026 15:46:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
