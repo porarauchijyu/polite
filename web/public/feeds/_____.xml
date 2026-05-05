@@ -4,25 +4,25 @@
         <description><![CDATA[西日本鉄道]]></description>
         <link>https://www.nishitetsu.co.jp/release/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 16:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:22:11 GMT</lastBuildDate>
         <atom:link href="https://www.nishitetsu.co.jp/release//rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[サステナブル経営の推進]]></title>
             <link>https://www.nishitetsu.co.jp/ja/sustainability/management_promotion.html</link>
             <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/sustainability/management_promotion.html</guid>
-            <pubDate>Tue, 05 May 2026 16:55:53 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[グループ・企業情報]]></title>
             <link>https://www.nishitetsu.co.jp/ja/group.html</link>
             <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/group.html</guid>
-            <pubDate>Tue, 05 May 2026 16:55:53 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:22:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[サステナブル経営]]></title>
             <link>https://www.nishitetsu.co.jp/ja/sustainability.html</link>
             <guid isPermaLink="true">https://www.nishitetsu.co.jp/ja/sustainability.html</guid>
-            <pubDate>Tue, 05 May 2026 16:55:53 GMT</pubDate>
+            <pubDate>Tue, 05 May 2026 17:22:11 GMT</pubDate>
         </item>
     </channel>
 </rss>

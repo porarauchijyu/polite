@@ -4,7 +4,7 @@
         <description><![CDATA[Osaka Metro]]></description>
         <link>https://www.osakametro.co.jp/news/news_list.php</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 16:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 17:19:57 GMT</lastBuildDate>
         <atom:link href="https://www.osakametro.co.jp/news/news_list.php/rss.xml" rel="self" type="application/rss+xml"/>
     </channel>
 </rss>
