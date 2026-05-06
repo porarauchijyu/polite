@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scrape": "ts-node scripts/scraper.ts"
+    "scrape": "node --loader ts-node/esm scripts/scraper.ts"
   },
   "dependencies": {
     "@types/fs-extra": "^11.0.4",

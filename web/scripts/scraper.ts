@@ -106,6 +106,12 @@ async function scrape() {
     return;
   }
 
+  // 既存の記事データを読み込む（日時の維持のため）
+  const existingArticles: Article[] = await fs.pathExists(OUTPUT_DATA_PATH) 
+    ? await fs.readJson(OUTPUT_DATA_PATH) 
+    : [];
+  const urlToDateMap = new Map(existingArticles.map(a => [a.link, a.date]));
+
   // targets.json を public フォルダにコピー（UI用）
   await fs.copy(TARGETS_PATH, PUBLIC_TARGETS_PATH);
 
@@ -116,7 +122,12 @@ async function scrape() {
   });
 
   const allArticles: Article[] = [];
-  const junkWords = ['戻る', 'トップ', '閉じる', 'メニュー', 'menu', '一覧', 'pagetop', 'ホーム'];
+  const junkWords = [
+    '戻る', 'トップ', '閉じる', 'メニュー', 'menu', '一覧', 'pagetop', 'ホーム', 'home',
+    'english', 'サイトマップ', 'sitemap', 'お問い合わせ', 'contact', 'プライバシーポリシー', 'privacy',
+    'ご利用案内', 'サイトポリシー', '企業情報', 'ニュースリリース', '会社案内', '採用情報', 'recruit',
+    'サステナビリティ', 'sustainability', 'ページトップ', 'ログイン', 'login', '検索', 'search'
+  ];
 
   for (const target of targets) {
     const siteName = target.Name || new URL(target.Url).hostname;
@@ -160,14 +171,17 @@ async function scrape() {
 
             const isJunk = junkWords.some(word => title.toLowerCase().includes(word));
             const isTooShort = title.length < 5;
+            const isExternal = link && !link.includes(new URL(target.Url).hostname) && !link.startsWith('/');
 
             if (title && link && !isJunk && !isTooShort) {
               if (!allArticles.some(a => a.link === link)) {
+                // 既存の日時があればそれを使用、なければ現在時刻
+                const date = urlToDateMap.get(link) || new Date().toISOString();
                 allArticles.push({
                   title,
                   link,
                   description: '',
-                  date: new Date().toISOString(),
+                  date,
                   source: siteName
                 });
               }

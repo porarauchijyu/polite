@@ -38,18 +38,35 @@ jobs:
       - name: Run Scraper
         run: |
           cd web
-          node --loader ts-node/esm scripts/scraper.ts
+          npm run scrape
 
       - name: Commit Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 1. スクレイピング成果物を一時ディレクトリに退避
+          mkdir -p ../temp_data
+          cp web/public/data/articles.json ../temp_data/ || true
+          cp web/public/data/targets.json ../temp_data/ || true
+          cp web/public/feeds/*.xml ../temp_data/ || true
+          
+          # 2. リモートの最新状態を取得し、ローカルブランチをそこに強制一致させる
           git fetch origin main
-          git checkout main
+          git checkout -B main origin/main
+          
+          # 3. 退避していた成果物を元の場所に戻す（これで最新の main の上に成果物が乗る）
+          cp ../temp_data/articles.json web/public/data/ || true
+          cp ../temp_data/targets.json web/public/data/ || true
+          cp ../temp_data/*.xml web/public/feeds/ || true
+          
+          # 4. 変更をステージングして、差分がある場合のみコミット＆プッシュ
           git add web/public/data/articles.json web/public/data/targets.json web/public/feeds/*.xml
           if ! git diff --staged --quiet; then
             git commit -m "chore: update scraped data [skip ci]"
             git push origin main
+          else
+            echo "No changes to commit"
           fi
 
       - name: Build Next.js

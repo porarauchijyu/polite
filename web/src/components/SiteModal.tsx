@@ -143,13 +143,17 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
               </div>
               <iframe
                 ref={iframeRef}
-                src={`/polite/api/proxy?url=${encodeURIComponent(url)}`}
+                src={url}
                 className={styles.iframe}
                 onLoad={() => {
                   setTimeout(() => {
-                    const script = document.createElement('script');
-                    script.src = '/polite/scripts/visualSelector.js';
-                    iframeRef.current?.contentWindow?.document.body.appendChild(script);
+                    try {
+                      const script = document.createElement('script');
+                      script.src = '/polite/scripts/visualSelector.js';
+                      iframeRef.current?.contentWindow?.document.body.appendChild(script);
+                    } catch (e) {
+                      console.error('CORS policy may block visual selector on this site.');
+                    }
                   }, 1500);
                 }}
               />
