@@ -4,8 +4,14 @@
         <description><![CDATA[news.yahoo.co.jp]]></description>
         <link>https://news.yahoo.co.jp/topics/top-picks</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 13:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 13:48:54 GMT</lastBuildDate>
         <atom:link href="https://news.yahoo.co.jp/topics/top-picks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[広末涼子 音楽活動を7月に再開 5/6(水) 22:32]]></title>
+            <link>https://news.yahoo.co.jp/pickup/6579079</link>
+            <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579079</guid>
+            <pubDate>Wed, 06 May 2026 13:48:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[6:07 高校バス事故 生徒複数が手術必要 5/6(水) 22:30]]></title>
             <link>https://news.yahoo.co.jp/pickup/6579077</link>
@@ -148,12 +154,6 @@
             <title><![CDATA[0:55 12-13歳が川に流されたか 1人死亡 5/6(水) 18:22]]></title>
             <link>https://news.yahoo.co.jp/pickup/6579050</link>
             <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579050</guid>
-            <pubDate>Wed, 06 May 2026 11:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[12-13歳が川に流されたか 1人重体 5/6(水) 18:00]]></title>
-            <link>https://news.yahoo.co.jp/pickup/6579045</link>
-            <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579045</guid>
             <pubDate>Wed, 06 May 2026 11:02:27 GMT</pubDate>
         </item>
     </channel>
