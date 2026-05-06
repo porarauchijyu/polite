@@ -42,10 +42,6 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
       let currentTargets = [];
       if (res.ok) {
         currentTargets = await res.json();
-      } else {
-        // ローカル開発用フォールバック
-        const resLocal = await fetch('/data/targets.json');
-        if (resLocal.ok) currentTargets = await resLocal.json();
       }
 
       const newSite = {
@@ -72,6 +68,30 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
       window.location.reload();
     } catch (error: any) {
       alert(`Save Error: ${error.message}`);
+    } finally {
+      setIsSaving(false);
+    }
+  };
+
+  const handleDelete = async () => {
+    if (!window.confirm(`Are you sure you want to delete "${site?.Name || url}"?`)) return;
+    
+    setIsSaving(true);
+    try {
+      const res = await fetch('/polite/data/targets.json');
+      let currentTargets = [];
+      if (res.ok) {
+        currentTargets = await res.json();
+      }
+
+      const updatedTargets = currentTargets.filter((t: any) => t.Id !== site.Id);
+      await saveTargetsToGithub(updatedTargets);
+      
+      alert('Site deleted from GitHub! Deploy started.');
+      onClose();
+      window.location.reload();
+    } catch (error: any) {
+      alert(`Delete Error: ${error.message}`);
     } finally {
       setIsSaving(false);
     }
@@ -133,6 +153,16 @@ export default function SiteModal({ isOpen, onClose, site }: SiteModalProps) {
             >
               {isSaving ? 'Saving to GitHub...' : 'Save Configuration'}
             </button>
+
+            {site && (
+              <button 
+                className={styles.deleteBtn} 
+                onClick={handleDelete} 
+                disabled={isSaving}
+              >
+                {isSaving ? 'Deleting...' : 'Delete Site'}
+              </button>
+            )}
           </div>
 
           {isVisualMode && (
