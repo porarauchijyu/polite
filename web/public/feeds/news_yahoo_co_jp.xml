@@ -4,8 +4,14 @@
         <description><![CDATA[news.yahoo.co.jp]]></description>
         <link>https://news.yahoo.co.jp/topics/top-picks</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 13:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 13:36:28 GMT</lastBuildDate>
         <atom:link href="https://news.yahoo.co.jp/topics/top-picks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[6:07 高校バス事故 生徒複数が手術必要 5/6(水) 22:30]]></title>
+            <link>https://news.yahoo.co.jp/pickup/6579077</link>
+            <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579077</guid>
+            <pubDate>Wed, 06 May 2026 13:36:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[早田ひなが62歳に勝利 世界卓球 5/6(水) 22:15]]></title>
             <link>https://news.yahoo.co.jp/pickup/6579078</link>
@@ -148,12 +154,6 @@
             <title><![CDATA[12-13歳が川に流されたか 1人重体 5/6(水) 18:00]]></title>
             <link>https://news.yahoo.co.jp/pickup/6579045</link>
             <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579045</guid>
-            <pubDate>Wed, 06 May 2026 11:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[井脇ノブ子さん 病で38kgの激やせ 5/6(水) 17:56]]></title>
-            <link>https://news.yahoo.co.jp/pickup/6579044</link>
-            <guid isPermaLink="true">https://news.yahoo.co.jp/pickup/6579044</guid>
             <pubDate>Wed, 06 May 2026 11:02:27 GMT</pubDate>
         </item>
     </channel>
