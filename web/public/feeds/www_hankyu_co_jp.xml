@@ -4,18 +4,12 @@
         <description><![CDATA[www.hankyu.co.jp]]></description>
         <link>https://www.hankyu.co.jp/topics/index.html</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 11:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 13:27:16 GMT</lastBuildDate>
         <atom:link href="https://www.hankyu.co.jp/topics/index.html/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Skip to main content]]></title>
             <link>https://www.hankyu.co.jp/topics/index.html#railinfo_alert</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/topics/index.html#railinfo_alert</guid>
-            <pubDate>Wed, 06 May 2026 11:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search by alphabet]]></title>
-            <link>https://www.hankyu.co.jp/en/station/info.html</link>
-            <guid isPermaLink="true">https://www.hankyu.co.jp/en/station/info.html</guid>
             <pubDate>Wed, 06 May 2026 11:02:34 GMT</pubDate>
         </item>
         <item>
@@ -100,12 +94,6 @@
             <title><![CDATA[Route maps and station information TOP]]></title>
             <link>https://www.hankyu.co.jp/en/station/index.html?link=hamburger</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/en/station/index.html?link=hamburger</guid>
-            <pubDate>Wed, 06 May 2026 11:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Route Search]]></title>
-            <link>https://www.hankyu.co.jp/en/station/search/index.php?link=hamburger</link>
-            <guid isPermaLink="true">https://www.hankyu.co.jp/en/station/search/index.php?link=hamburger</guid>
             <pubDate>Wed, 06 May 2026 11:02:34 GMT</pubDate>
         </item>
         <item>
@@ -385,18 +373,6 @@
             <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[採用情報別ウィンドウで開く]]></title>
-            <link>https://dentetsu.hankyu.co.jp/jinji/index.html?link=hamburger</link>
-            <guid isPermaLink="true">https://dentetsu.hankyu.co.jp/jinji/index.html?link=hamburger</guid>
-            <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[お問い合わせ]]></title>
-            <link>https://www.hankyu.co.jp/inquiry/index.html?link=hamburger</link>
-            <guid isPermaLink="true">https://www.hankyu.co.jp/inquiry/index.html?link=hamburger</guid>
-            <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[お忘れ物のご案内]]></title>
             <link>https://www.hankyu.co.jp/inquiry/lostproperty/index.html?link=hamburger</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/inquiry/lostproperty/index.html?link=hamburger</guid>
@@ -418,12 +394,6 @@
             <title><![CDATA[Site map]]></title>
             <link>https://www.hankyu.co.jp/en/sitemap/index.html</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/en/sitemap/index.html</guid>
-            <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Privacy Policy]]></title>
-            <link>https://www.hankyu.co.jp/en/company/privacy.html</link>
-            <guid isPermaLink="true">https://www.hankyu.co.jp/en/company/privacy.html</guid>
             <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
         </item>
         <item>
@@ -463,18 +433,6 @@
             <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[採用情報別ウィンドウで開く]]></title>
-            <link>https://dentetsu.hankyu.co.jp/jinji/index.html</link>
-            <guid isPermaLink="true">https://dentetsu.hankyu.co.jp/jinji/index.html</guid>
-            <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[お問い合わせ]]></title>
-            <link>https://www.hankyu.co.jp/inquiry/index.html</link>
-            <guid isPermaLink="true">https://www.hankyu.co.jp/inquiry/index.html</guid>
-            <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hankyu Railway Official SNS Account List]]></title>
             <link>https://www.hankyu.co.jp/en/company/sns/index.html</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/en/company/sns/index.html</guid>
@@ -511,7 +469,7 @@
             <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Privacy Policy]]></title>
+            <title><![CDATA[More information]]></title>
             <link>https://www.hankyu.co.jp/en/global/en/privacy/</link>
             <guid isPermaLink="true">https://www.hankyu.co.jp/en/global/en/privacy/</guid>
             <pubDate>Wed, 06 May 2026 11:02:35 GMT</pubDate>

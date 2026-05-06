@@ -4,7 +4,7 @@
         <description><![CDATA[JR貨物]]></description>
         <link>https://www.jrfreight.co.jp/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 11:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 13:27:37 GMT</lastBuildDate>
         <atom:link href="https://www.jrfreight.co.jp/news//rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[サービスご案内]]></title>
@@ -121,12 +121,6 @@
             <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IR・Sustainability情報]]></title>
-            <link>https://www.jrfreight.co.jp/ir_sustainability</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/ir_sustainability</guid>
-            <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[長期ビジョン・中期経営計画・事業計画]]></title>
             <link>https://www.jrfreight.co.jp/ir_sustainability/plan.html</link>
             <guid isPermaLink="true">https://www.jrfreight.co.jp/ir_sustainability/plan.html</guid>
@@ -151,27 +145,9 @@
             <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[JR貨物グループサステナビリティ調達方針]]></title>
-            <link>https://www.jrfreight.co.jp/ir_sustainability/sustainability_policy.html</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/ir_sustainability/sustainability_policy.html</guid>
-            <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[DE＆I（Diversity, Equity and Inclusion）]]></title>
             <link>https://www.jrfreight.co.jp/ir_sustainability/dei.html</link>
             <guid isPermaLink="true">https://www.jrfreight.co.jp/ir_sustainability/dei.html</guid>
-            <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ENGLISH]]></title>
-            <link>https://www.jrfreight.co.jp/en</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/en</guid>
-            <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[お問い合わせ よくいただくご質問]]></title>
-            <link>https://www.jrfreight.co.jp/inquiry</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/inquiry</guid>
             <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
         </item>
         <item>
@@ -179,12 +155,6 @@
             <link>https://www.jrfreight.co.jp/compliance</link>
             <guid isPermaLink="true">https://www.jrfreight.co.jp/compliance</guid>
             <pubDate>Wed, 06 May 2026 11:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[プライバシーポリシー]]></title>
-            <link>https://www.jrfreight.co.jp/individual</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/individual</guid>
-            <pubDate>Wed, 06 May 2026 11:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ソーシャルメディアポリシー]]></title>
@@ -202,12 +172,6 @@
             <title><![CDATA[サイトのご利用にあたって]]></title>
             <link>https://www.jrfreight.co.jp/sitepolicy</link>
             <guid isPermaLink="true">https://www.jrfreight.co.jp/sitepolicy</guid>
-            <pubDate>Wed, 06 May 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[サイトマップ]]></title>
-            <link>https://www.jrfreight.co.jp/sitemap</link>
-            <guid isPermaLink="true">https://www.jrfreight.co.jp/sitemap</guid>
             <pubDate>Wed, 06 May 2026 11:02:56 GMT</pubDate>
         </item>
     </channel>
